@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shira! 👋
 
-<!--
-**Shira-Cadury/Shira-Cadury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+* 🎓 **Software Engineering Student @ Azrieli College**
+* 📚 **2nd-year student** focused on software development.
+* 💻 **Interested in:** Algorithm efficiency and logical problem-solving.
+* 🛠️ **Current Focus:** Developing clean, efficient code while building my technical foundation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools I Work With
+**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 📫 Connect with me
+Feel free to explore my repositories! I'm always open to discussing algorithms and software development.
